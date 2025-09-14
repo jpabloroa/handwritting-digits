@@ -1,0 +1,9 @@
+# Python files
+.venv/
+*.pyc
+__pycache__/
+
+#
+.env
+handwritting_digits/dataset/V*
+handwritting_digits/train/logs
